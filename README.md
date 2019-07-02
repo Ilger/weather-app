@@ -29,3 +29,10 @@ Make website to get the weather forecast for the next 5 days.
 
 Readme files are really important on github so i want you to wright few lines that describe your project.
 
+# Steps
+
+## Musts have
+- input field
+- button
+- api call to fetch data
+- fields to display result
